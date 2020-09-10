@@ -1,2 +1,0 @@
-# ionix
-Ejercicio ionix
